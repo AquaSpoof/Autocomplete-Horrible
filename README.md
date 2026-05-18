@@ -1,4 +1,4 @@
-# Variable Launcher Autocomplete
+# Horrible Launcher Autocomplete
 
 [🇷🇺 Русский](#русский-ru) | [🇬🇧 English](#english-en) | [🇺🇦 Українська](#українська-uk) | [🇧🇾 Беларуская](#беларуская-be) | [🇨🇳 中文](#中文-zh)
 
