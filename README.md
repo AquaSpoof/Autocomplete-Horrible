@@ -10,7 +10,7 @@
 
 ### 📥 Как скачать и установить
 1. Перейдите во вкладку **[Releases](../../releases)** в этом репозитории.
-2. Скачайте последнюю версию файла `variable_api.d.ts`.
+2. Скачайте последнюю версию файла `horrible_api.d.ts`.
 3. Поместите этот файл в ту же папку, где находятся ваши `.js` скрипты. Редактор автоматически подхватит API.
 
 ---
@@ -21,7 +21,7 @@ It provides full autocomplete (IntelliSense), method tooltips, and type checking
 
 ### 📥 How to download and install
 1. Go to the **[Releases](../../releases)** tab in this repository.
-2. Download the latest version of the `variable_api.d.ts` file.
+2. Download the latest version of the `horrible_api.d.ts` file.
 3. Drop the downloaded file into the same folder as your `.js` scripts. Your editor will automatically pick up the API.
 
 ---
@@ -32,7 +32,7 @@ It provides full autocomplete (IntelliSense), method tooltips, and type checking
 
 ### 📥 Як завантажити та встановити
 1. Перейдіть у вкладку **[Releases](../../releases)** у цьому репозиторії.
-2. Завантажте останню версію файлу `variable_api.d.ts`.
+2. Завантажте останню версію файлу `horrible_api.d.ts`.
 3. Помістіть цей файл у ту ж папку, де знаходяться ваші `.js` скрипти. Редактор автоматично підхопить API.
 
 ---
@@ -43,7 +43,7 @@ It provides full autocomplete (IntelliSense), method tooltips, and type checking
 
 ### 📥 Як спампаваць і ўсталяваць
 1. Перайдзіце ва ўкладку **[Releases](../../releases)** у гэтым рэпазітарыі.
-2. Спампуйце апошнюю версію файла `variable_api.d.ts`.
+2. Спампуйце апошнюю версію файла `horrible_api.d.ts`.
 3. Змясціце гэты файл у тую ж тэчку, дзе знаходзяцца вашы `.js` скрыпты. Рэдактар аўтаматычна падхопіць API.
 
 ---
@@ -54,5 +54,5 @@ It provides full autocomplete (IntelliSense), method tooltips, and type checking
 
 ### 📥 如何下载和安装
 1. 转到此存储库的 **[Releases](../../releases)** 选项卡。
-2. 下载最新版本的 `variable_api.d.ts` 文件。
+2. 下载最新版本的 `horrible_api.d.ts` 文件。
 3. 将下载的文件放入与 `.js` 脚本相同的文件夹中。编辑器将自动识别 API。
