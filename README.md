@@ -56,3 +56,12 @@ It provides full autocomplete (IntelliSense), method tooltips, and type checking
 1. 转到此存储库的 **[Releases](../../releases)** 选项卡。
 2. 下载最新版本的 `horrible_api.d.ts` 文件。
 3. 将下载的文件放入与 `.js` 脚本相同的文件夹中。编辑器将自动识别 API。
+
+
+
+
+
+
+
+
+by https://t.me/notzapret
